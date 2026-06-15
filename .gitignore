@@ -1,0 +1,21 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# .gitignore — IQTest.ro
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Fișierul cu cheile REALE — NICIODATĂ pe GitHub!
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
